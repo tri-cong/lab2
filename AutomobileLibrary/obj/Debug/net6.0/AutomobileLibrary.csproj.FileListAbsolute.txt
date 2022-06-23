@@ -1,0 +1,12 @@
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+H:\PRN211\Workspace\Hands-on Labs2\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
